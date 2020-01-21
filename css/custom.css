@@ -1,0 +1,17 @@
+.titulo {
+	font-family: sans-serif !important;
+}
+
+.slider_bg_1 {
+	background-image: url(../img/banner1.jpg) !important;
+}
+
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
